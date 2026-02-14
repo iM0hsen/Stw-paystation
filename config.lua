@@ -58,8 +58,8 @@ Config.Paystations = {
     --     vehicleList = 'list1',
     --     blip = {
     --         enabled = true,
-    --         sprite = 677,
-    --         color = 2,
+    --         sprite = 811,
+    --         color = 3,
     --         scale = 0.8,
     --         name = "Pay Station"
     --     }
