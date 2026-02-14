@@ -16,7 +16,6 @@
 ## المتطلبات
 - interact: `https://github.com/darktrovx/interact`
 - ox_lib: `https://github.com/overextended/ox_lib`
- - qb-core (هذا السكربت يعمل على QBCore فقط)
 
 
 ## تركيب الأيتم rentalpapers
@@ -44,3 +43,4 @@ else if (item.name === "rentalpapers") {
 ![Screenshot 1](https://cdn.discordapp.com/attachments/1254759277717880844/1472164464852861031/image.png?ex=6991937f&is=699041ff&hm=63533a53ce1ab7f25f2ac2feda4b4abf9cc69523a70402f26e408ad87c0c3c86&)
 ![Screenshot 2](https://cdn.discordapp.com/attachments/1254759277717880844/1472164465347661976/image.png?ex=69919380&is=69904200&hm=be7b2781b237e989f5ee33aa7de1b53f274568e409e6f5a64b36e8063674cf87&)
 ![Screenshot 3](https://cdn.discordapp.com/attachments/1254759277717880844/1472164465968545947/image.png?ex=69919380&is=69904200&hm=9c8bdb725bf3f1df20a0b87d5167dc3ed2f6ad9d513577b306e885064cc1194f&)
+
